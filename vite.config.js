@@ -11,6 +11,7 @@ import viteCompression from "vite-plugin-compression";
 // https://vitejs.dev/config/
 export default ({ mode }) =>
   defineConfig({
+    base:"/home",
     plugins: [
       vue(),
       AutoImport({
@@ -52,22 +53,22 @@ export default ({ mode }) =>
           background_color: "#424242",
           icons: [
             {
-              src: "/images/icon/48.png",
+              src: "/home/images/icon/48.png",
               sizes: "48x48",
               type: "image/png",
             },
             {
-              src: "/images/icon/72.png",
+              src: "/home/images/icon/72.png",
               sizes: "72x72",
               type: "image/png",
             },
             {
-              src: "/images/icon/96.png",
+              src: "/home/images/icon/96.png",
               sizes: "96x96",
               type: "image/png",
             },
             {
-              src: "/images/icon/128.png",
+              src: "/home/images/icon/128.png",
               sizes: "128x128",
               type: "image/png",
             },
@@ -77,12 +78,12 @@ export default ({ mode }) =>
               type: "image/png",
             },
             {
-              src: "/images/icon/192.png",
+              src: "/home/images/icon/192.png",
               sizes: "192x192",
               type: "image/png",
             },
             {
-              src: "/images/icon/512.png",
+              src: "/home/images/icon/512.png",
               sizes: "512x512",
               type: "image/png",
             },
