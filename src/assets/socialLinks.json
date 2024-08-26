@@ -1,37 +1,37 @@
 [
   {
     "name": "Github",
-    "icon": "/home/images/icon/github.png",
+    "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
     "url": "https://github.com/sakana9826"
   },
   {
     "name": "BiliBili",
-    "icon": "/home/images/icon/bilibili.png",
+    "icon": "/images/icon/bilibili.png",
     "tip": "(゜-゜)つロ 干杯 ~",
     "url": "xxxx"
   },
   {
     "name": "QQ",
-    "icon": "/home/images/icon/qq.png",
+    "icon": "/images/icon/qq.png",
     "tip": "有什么事吗",
     "url": "xxxx"
   },
   {
     "name": "Email",
-    "icon": "/home/images/icon/email.png",
+    "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "xxxx"
   },
   {
     "name": "Twitter",
-    "icon": "/home/images/icon/twitter.png",
+    "icon": "/images/icon/twitter.png",
     "tip": "你懂的 ~",
     "url": "xxxx"
   },
   {
     "name": "Telegram",
-    "icon": "/home/images/icon/telegram.png",
+    "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
     "url": "xxxx"
   }

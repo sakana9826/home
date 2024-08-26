@@ -2,17 +2,17 @@
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "http://121.199.165.226:8080/music/"
+    "link": "https://music.sakana98.xyz/"
   },
   {
     "icon": "StorageFilled",
     "name": "网盘",
-    "link": "http://121.199.165.226:5244/"
+    "link": "https://pan.sakana98.xyz/"
   },
   {
     "icon": "PeopleCommunity24Filled",
-    "name": "交流",
-    "link": "http://121.199.165.226:5230/"
+    "name": "博客",
+    "link": "http://blog.sakana98.xyz/"
   },
   {
     "icon": "Blog",
