@@ -12,12 +12,12 @@
   {
     "icon": "PeopleCommunity24Filled",
     "name": "博客",
-    "link": "http://blog.sakana98.xyz/"
+    "link": "https://blog.sakana98.xyz/"
   },
   {
-    "icon": "Blog",
-    "name": "待定",
-    "link": "xxxx"
+    "icon": "DocumentTextClock24Filled",
+    "name": "简历",
+    "link": "https://resume.sakana98.xyz/"
   },
   {
     "icon": "Blog",
